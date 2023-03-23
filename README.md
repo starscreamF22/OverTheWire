@@ -1,3 +1,3 @@
 # OverTheWire
 
-Here, I will walkthrough some OverTheWire wargames.
+Here, I walkthrough some OverTheWire wargames.
