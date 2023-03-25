@@ -219,11 +219,12 @@
 
 - Type in the following:
 
-`#!/bin/bash 
+```#!/bin/bash 
 for a in {0000..9999}
 do
 ~/leviathan6 $a
-done`
+done
+```
     
 - `cat vim.sh`
 
