@@ -253,4 +253,4 @@ done`
 
 - And we see we are done.
 
-![leviathan_6.png](attachment:leviathan_6.png)
+![leviathan_8.png](https://github.com/starscreamF22/OverTheWire/blob/main/images/leviathan_8.png)
