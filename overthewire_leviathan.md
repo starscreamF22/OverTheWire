@@ -19,7 +19,7 @@
 
 - We are now signed in.
 
-![leviathan_0.png](attachment:leviathan_0.png)
+![leviathan_0.png](https://github.com/starscreamF22/OverTheWire/blob/main/images/leviathan_0.png)
 
 # level 0 to 1<a name="level1"></a>
 
@@ -45,7 +45,7 @@
 
 - And we see the password is `PPIfmI1qsA`
 
-![leviathan_1.png](attachment:leviathan_1.png)
+![leviathan_1.png](https://github.com/starscreamF22/OverTheWire/blob/main/images/leviathan_1.png)
 
 # level 1 to 2<a name="level2"></a>
 
@@ -73,7 +73,7 @@
 
 - We see the password is `mEh5PNl10e`
 
-![leviathan_2.png](attachment:leviathan_2.png)
+![leviathan_2.png](https://github.com/starscreamF22/OverTheWire/blob/main/images/leviathan_2.png)
 
 # level 2 to 3<a name="level3"></a>
 
@@ -115,7 +115,7 @@
 
 - and the password is `Q0G8j4sakn`
 
-![leviathan_3.png](attachment:leviathan_3.png)
+![leviathan_3.png](https://github.com/starscreamF22/OverTheWire/blob/main/images/leviathan_3.png)
 
 # level 3 to 4<a name="level4"></a>
 
@@ -143,7 +143,7 @@
 
 - And the password we get is `AgvropI4OA`
 
-![leviathan_4.png](attachment:leviathan_4.png)
+![leviathan_4.png](https://github.com/starscreamF22/OverTheWire/blob/main/images/leviathan_4.png)
 
 # level 4 to 5<a name="level5"></a>
 
@@ -171,7 +171,7 @@
 
 - I input the binary and we get out the password `EKKlTF1Xqs`.
 
-![leviathan_4.png](attachment:leviathan_4.png)
+![leviathan_5.png](https://github.com/starscreamF22/OverTheWire/blob/main/images/leviathan_5.png)
 
 # level 5 to 6<a name="level6"></a>
 
@@ -195,7 +195,7 @@
 
 - The password is `YZ55XPVk2l`
 
-![leviathan_6.png](attachment:leviathan_6.png)
+![leviathan_6.png](https://github.com/starscreamF22/OverTheWire/blob/main/images/leviathan_6.png)
 
 # level 6 to 7<a name="level7"></a>
 
@@ -239,7 +239,7 @@ done`
 
 - And we get the password `8Gpz5f8Hze`
 
-![leviathan_6.png](attachment:leviathan_6.png)
+![leviathan_7.png](https://github.com/starscreamF22/OverTheWire/blob/main/images/leviathan_7.png)
 
 # level 7 to 8<a name="level8"></a>
 
